@@ -1,0 +1,34 @@
+html {
+  background-color: black;
+  text-align: center;
+}
+
+h1 {
+  color: white;
+  font-family: verdana;
+}
+
+a {
+  color: aquamarine;
+  font-size: 16px;
+}
+
+p {
+  font-family: verdana;
+  font-size: 21px;
+  color: gray;
+}
+
+#copyright {
+  text-align:right;
+}
+
+#title {
+  font-weight: normal;
+  font-size: 50px;
+}
+
+#travelguide {
+  font-weight: 300;
+  font-size: 42px;
+}
